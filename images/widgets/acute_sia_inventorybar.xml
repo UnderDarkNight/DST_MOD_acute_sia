@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="acute_sia_inventorybar.tex" />
+	<Elements>
+		<Element name="food.tex" u1="0.001" u2="0.499" v2="0.999" v1="0.501" variant="" />
+		<Element name="material.tex" u1="0.501" u2="0.999" v2="0.999" v1="0.501" variant="" />
+		<Element name="tool.tex" u1="0.001" u2="0.499" v2="0.499" v1="0.001" variant="" />
+	</Elements>
+</Atlas>
