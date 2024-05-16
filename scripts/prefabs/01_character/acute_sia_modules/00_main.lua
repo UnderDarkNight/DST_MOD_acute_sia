@@ -19,6 +19,7 @@ return function(inst)
         "prefabs/01_character/acute_sia_modules/08_pilar_sys",                               ---- 顺手牵羊 系统
         "prefabs/01_character/acute_sia_modules/10_naughty_event",                           ---- 淘气值系统
         "prefabs/01_character/acute_sia_modules/11_duster_event",                            ---- 羽毛扫 相关event
+        "prefabs/01_character/acute_sia_modules/12_eater",                                   ---- 吃东西相关
 
     }
     

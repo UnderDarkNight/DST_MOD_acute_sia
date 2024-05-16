@@ -43,5 +43,16 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["recipe_desc"] = "属于Sia的清洁扫把",
             },
         --------------------------------------------------------------------
+        --- 04_foods
+            ["acute_sia_food_green_raisins"] = {
+                ["name"] = "青提",
+                ["inspect_str"] = "青提",
+            },
+            ["acute_sia_food_green_raisins_cooked"] = {
+                ["name"] = "烤青提",
+                ["inspect_str"] = "烤青提",
+            },
+        --------------------------------------------------------------------
+        --------------------------------------------------------------------
 }
 

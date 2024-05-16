@@ -16,3 +16,6 @@ modimport("key_modules_for_acute_sia/02_actions/__all_action_modules_init.lua")
 modimport("key_modules_for_acute_sia/03_origin_components_upgrade/__all_origin_components_init.lua") 
 -- 官方component修改
 
+modimport("key_modules_for_acute_sia/04_origin_prefab_upgrade/__all_origin_prefabs_init.lua") 
+-- 官方prefab修改
+

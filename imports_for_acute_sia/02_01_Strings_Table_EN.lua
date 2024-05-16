@@ -37,5 +37,15 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["recipe_desc"] = "A duster that belongs to Sia",
             },
         --------------------------------------------------------------------
+        --- 04_foods
+            ["acute_sia_food_green_raisins"] = {
+                ["name"] = "Green Raisins",
+                ["inspect_str"] = "Green Raisins",
+            },
+            ["acute_sia_food_green_raisins_cooked"] = {
+                ["name"] = "Cooked Green Raisins",
+                ["inspect_str"] = "Cooked Green Raisins",
+            },
+        --------------------------------------------------------------------
 
 }

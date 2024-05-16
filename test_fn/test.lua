@@ -103,11 +103,18 @@ local flg,error_code = pcall(function()
         -- end
     ----------------------------------------------------------------------------------------------------------------
     --- 淘气值相关
-        SpawnPrefab("acute_sia_naughty_target"):PushEvent("Set",{
-            player = ThePlayer,
-            num = 3,
-        })
-        print(TheWorld.components.kramped:Sia_GetPlayerKramp(ThePlayer))
+        -- SpawnPrefab("acute_sia_naughty_target"):PushEvent("Set",{
+        --     player = ThePlayer,
+        --     num = 3,
+        -- })
+        -- print(TheWorld.components.kramped:Sia_GetPlayerKramp(ThePlayer))
+    ----------------------------------------------------------------------------------------------------------------
+    --- 浆果
+        local item = c_select()
+        -- print(item.components.edible.foodtype)
+        -- print(item.components.stackable.maxsize)
+        print(item.components.pickable.product)
+        -- print(item:GetDebugString())
     ----------------------------------------------------------------------------------------------------------------
     print("WARNING:PCALL END   +++++++++++++++++++++++++++++++++++++++++++++++++")
 end)

@@ -14,6 +14,11 @@ local files_name = {
 	--- 02_items
 		"acute_sia_weapon_duster",			---- 特别的扫把
 	---------------------------------------------------------------------------------------
+	--- 04_foods
+		"acute_sia_food_green_raisins",					---- 青提
+		"acute_sia_food_green_raisins_rot",				---- 青提
+		"acute_sia_food_green_raisins_cooked",			---- 烤青提
+	---------------------------------------------------------------------------------------
 
 }
 

@@ -13,9 +13,8 @@ local temp_assets = {
 
 	---------------------------------------------------------------------------
 
-	-- Asset("ANIM", "anim/acute_sia_hud_wellness.zip"),	--- 体质值进度条
-	-- Asset("ANIM", "anim/acute_sia_item_medical_certificate.zip"),	--- 诊断单 界面
-	-- Asset("ANIM", "anim/acute_sia_hud_shop_widget.zip"),	--- 商店界面和按钮
+	Asset("ANIM", "anim/acute_sia_berrybush_juisy.zip"), --- 多汁浆果贴图修改
+
 
 
 
