@@ -26,6 +26,8 @@
     AddReplicableComponent("acute_sia_com_pet_the_cat")  --- 抚摸猫相关的组件
     AddReplicableComponent("acute_sia_com_rpc_event")  --- rpc 事件相关的组件
     AddReplicableComponent("acute_sia_com_pilfer")  --- 顺手牵羊 相关组件
+    AddReplicableComponent("acute_sia_com_acceptable")  --- 通用物品接受
+    AddReplicableComponent("accute_sia_com_workable")  --- 通用交互接受
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
     if EntityScript.ReplicateComponent_acute_sia_old_fn == nil then

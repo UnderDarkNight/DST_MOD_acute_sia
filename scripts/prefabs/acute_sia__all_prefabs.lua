@@ -8,6 +8,7 @@ local file_folders = {
     "00_others",            ---- 其他无法归类的
     "01_character",         ---- 角色相关
     "02_items",             ---- 物品
+    "03_plants",            ---- 植物
 }
 
 

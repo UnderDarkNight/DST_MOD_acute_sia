@@ -17,6 +17,8 @@ return function(inst)
         "prefabs/01_character/acute_sia_modules/06_inventorybar_icon_change",                ---- 物品栏图标修改
         "prefabs/01_character/acute_sia_modules/07_inventorybar_checker",                    ---- 物品栏检查器
         "prefabs/01_character/acute_sia_modules/08_pilar_sys",                               ---- 顺手牵羊 系统
+        "prefabs/01_character/acute_sia_modules/10_naughty_event",                           ---- 淘气值系统
+        "prefabs/01_character/acute_sia_modules/11_duster_event",                            ---- 羽毛扫 相关event
 
     }
     

@@ -29,6 +29,7 @@ local prefabs_name_list = {
 
 
     "01_beard_container",                            --- 胡子容器
+    "02_naughty_target",                             --- 淘气值 相关的
 
 }
 

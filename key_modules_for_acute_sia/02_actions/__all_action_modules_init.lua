@@ -8,3 +8,6 @@ modimport("key_modules_for_acute_sia/02_actions/01_com_pet_the_cat.lua")   --- �
 
 modimport("key_modules_for_acute_sia/02_actions/02_com_pilfer.lua")   --- 顺手牵羊 组件
 
+modimport("key_modules_for_acute_sia/02_actions/03_com_item_acceptable.lua")   --- 通用接受 组件
+modimport("key_modules_for_acute_sia/02_actions/04_com_action_workable.lua")   --- 通用交互 组件
+

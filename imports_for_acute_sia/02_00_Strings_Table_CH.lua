@@ -36,5 +36,12 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["FAIL"] = "这地方空空如也",
             },
         --------------------------------------------------------------------
+        --- 02_items
+            ["acute_sia_weapon_duster"] = {
+                ["name"] = "Sia的清洁扫把",
+                ["inspect_str"] = "属于Sia的清洁扫把",
+                ["recipe_desc"] = "属于Sia的清洁扫把",
+            },
+        --------------------------------------------------------------------
 }
 

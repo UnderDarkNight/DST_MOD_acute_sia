@@ -30,5 +30,12 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["FAIL"] = "This place has good security.",
             },
         --------------------------------------------------------------------
+        --- 02_items
+            ["acute_sia_weapon_duster"] = {
+                ["name"] = "Sia's Duster",
+                ["inspect_str"] = "A duster that belongs to Sia",
+                ["recipe_desc"] = "A duster that belongs to Sia",
+            },
+        --------------------------------------------------------------------
 
 }

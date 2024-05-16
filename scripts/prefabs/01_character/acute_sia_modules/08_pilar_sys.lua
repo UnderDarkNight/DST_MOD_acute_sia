@@ -69,20 +69,22 @@ return function(inst)
             end
             local can_pilar_target = target.components.acute_sia_com_pilfer_flag_for_target:CanBePilarToday(PILAR_CD_DAYS)
             if not can_pilar_target then
-                inst:DoTaskInTime(0,function()
-                    inst.components.talker:Say(GetStringsTable()["FAIL"])                    
-                end)
-                return false
+                inst.components.talker:Say(GetStringsTable()["FAIL"])
+                return true
             end
             target.components.acute_sia_com_pilfer_flag_for_target:DoPilar()
             local reward_prefab = get_list_by_prefab(target.prefab) or {}
 
-            local ret_prefab = reward_prefab[math.random(#reward_prefab)]
-            if ret_prefab == nil then
-                ret_prefab = "log"
+            local ret_prefab = tostring(reward_prefab[math.random(#reward_prefab)])
+            if PrefabExists(ret_prefab) then
+                inst.components.talker:Say(GetStringsTable()["SUCCEED"])
+                inst.components.inventory:GiveItem(SpawnPrefab(ret_prefab))
+                inst:PushEvent("sia_naughty_dodelta",5)
+                -- print(" info +++++ sia_naughty",TheWorld.components.kramped:Sia_GetPlayerKramp(inst))
+            else
+                inst.components.talker:Say(GetStringsTable()["FAIL"])
             end
-            inst.components.talker:Say(GetStringsTable()["SUCCEED"])
-            inst.components.inventory:GiveItem(SpawnPrefab(ret_prefab))
+
             return true
         end)
     end

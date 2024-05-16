@@ -11,13 +11,8 @@ end
 local files_name = {
 
 	---------------------------------------------------------------------------------------
-
-		-- "acute_sia_weapon_scythe",											--- 冥界之镰
-		-- "acute_sia_weapon_scythe_overcome_confinement",						--- 冲破禁锢
-
-
-		-- "acute_sia_item_faded_memory",										--- 褪色的记忆
-		-- "acute_sia_item_blissful_memory",										--- 幸福的记忆
+	--- 02_items
+		"acute_sia_weapon_duster",			---- 特别的扫把
 	---------------------------------------------------------------------------------------
 
 }
