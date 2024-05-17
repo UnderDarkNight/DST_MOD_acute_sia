@@ -110,11 +110,13 @@ local flg,error_code = pcall(function()
         -- print(TheWorld.components.kramped:Sia_GetPlayerKramp(ThePlayer))
     ----------------------------------------------------------------------------------------------------------------
     --- 浆果
-        local item = c_select()
+        -- local item = c_select()
         -- print(item.components.edible.foodtype)
         -- print(item.components.stackable.maxsize)
-        print(item.components.pickable.product)
+        -- print(item.components.pickable.product)
         -- print(item:GetDebugString())
+    ----------------------------------------------------------------------------------------------------------------
+    ---            
     ----------------------------------------------------------------------------------------------------------------
     print("WARNING:PCALL END   +++++++++++++++++++++++++++++++++++++++++++++++++")
 end)

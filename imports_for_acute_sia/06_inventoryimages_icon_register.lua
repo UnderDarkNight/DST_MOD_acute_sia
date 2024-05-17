@@ -13,11 +13,19 @@ local files_name = {
 	---------------------------------------------------------------------------------------
 	--- 02_items
 		"acute_sia_weapon_duster",			---- 特别的扫把
+		"acute_sia_item_portable_blender",			---- 磨粉机
+	---------------------------------------------------------------------------------------
+	--- 03_plants
+		"acute_sia_plant_dug_coffeebush",			---- 咖啡树
 	---------------------------------------------------------------------------------------
 	--- 04_foods
 		"acute_sia_food_green_raisins",					---- 青提
 		"acute_sia_food_green_raisins_rot",				---- 青提
 		"acute_sia_food_green_raisins_cooked",			---- 烤青提
+		"acute_sia_food_coffeebeans",					---- 咖啡豆
+		"acute_sia_food_coffeebeans_cooked",			---- 烤咖啡豆
+
+		"acute_sia_food_coffee_powder",			---- 咖啡粉
 	---------------------------------------------------------------------------------------
 
 }

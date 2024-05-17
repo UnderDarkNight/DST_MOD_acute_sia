@@ -29,6 +29,8 @@ local prefabs_name_list = {
 
 
     "01_green_raisins",                           --- 青色提子
+    "02_coffeebeans",                             --- 咖啡豆
+    "03_coffee_powder",                           --- 咖啡粉
 
 }
 

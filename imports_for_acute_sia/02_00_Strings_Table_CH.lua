@@ -42,6 +42,28 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["inspect_str"] = "属于Sia的清洁扫把",
                 ["recipe_desc"] = "属于Sia的清洁扫把",
             },
+            ["acute_sia_item_portable_blender"] = {
+                ["name"] = "咖啡研磨器",
+                ["inspect_str"] = "属于Sia的咖啡研磨器",
+                ["recipe_desc"] = "属于Sia的咖啡研磨器",
+            },
+            ["acute_sia_building_portable_blender"] = {
+                ["name"] = "咖啡研磨器",
+                ["inspect_str"] = "属于Sia的咖啡研磨器",
+                ["recipe_desc"] = "属于Sia的咖啡研磨器",
+            },
+        --------------------------------------------------------------------
+        --- 03_plants
+            ["acute_sia_plant_coffeebush"] = {
+                ["name"] = "咖啡灌木丛",
+                ["inspect_str"] = "咖啡灌木丛",
+                ["recipe_desc"] = "咖啡灌木丛",
+            },
+            ["acute_sia_plant_dug_coffeebush"] = {
+                ["name"] = "咖啡灌木丛",
+                ["inspect_str"] = "咖啡灌木丛",
+                ["recipe_desc"] = "咖啡灌木丛",
+            },
         --------------------------------------------------------------------
         --- 04_foods
             ["acute_sia_food_green_raisins"] = {
@@ -51,6 +73,18 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
             ["acute_sia_food_green_raisins_cooked"] = {
                 ["name"] = "烤青提",
                 ["inspect_str"] = "烤青提",
+            },
+            ["acute_sia_food_coffeebeans"] = {
+                ["name"] = "咖啡豆",
+                ["inspect_str"] = "咖啡豆",
+            },
+            ["acute_sia_food_coffeebeans_cooked"] = {
+                ["name"] = "咖啡豆",
+                ["inspect_str"] = "咖啡豆",
+            },
+            ["acute_sia_food_coffee_powder"] = {
+                ["name"] = "咖啡粉",
+                ["inspect_str"] = "咖啡粉",
             },
         --------------------------------------------------------------------
         --------------------------------------------------------------------

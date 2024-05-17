@@ -36,6 +36,28 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["inspect_str"] = "A duster that belongs to Sia",
                 ["recipe_desc"] = "A duster that belongs to Sia",
             },
+            ["acute_sia_item_portable_blender"] = {
+                ["name"] = "Portable Blender",
+                ["inspect_str"] = "A Portable Blender that belongs to Sia",
+                ["recipe_desc"] = "A Portable Blender that belongs to Sia",
+            },
+            ["acute_sia_building_portable_blender"] = {
+                ["name"] = "Portable Blender",
+                ["inspect_str"] = "A Portable Blender that belongs to Sia",
+                ["recipe_desc"] = "A Portable Blender that belongs to Sia",
+            },
+        --------------------------------------------------------------------
+        --- 03_plants
+            ["acute_sia_plant_coffeebush"] = {
+                ["name"] = "Coffee Bush",
+                ["inspect_str"] = "Coffee Bush",
+                ["recipe_desc"] = "Coffee Bush",
+            },
+            ["acute_sia_plant_dug_coffeebush"] = {
+                ["name"] = "Coffee Bush",
+                ["inspect_str"] = "Coffee Bush",
+                ["recipe_desc"] = "Coffee Bush",
+            },
         --------------------------------------------------------------------
         --- 04_foods
             ["acute_sia_food_green_raisins"] = {
@@ -45,6 +67,18 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
             ["acute_sia_food_green_raisins_cooked"] = {
                 ["name"] = "Cooked Green Raisins",
                 ["inspect_str"] = "Cooked Green Raisins",
+            },
+            ["acute_sia_food_coffeebeans"] = {
+                ["name"] = "Coffee Beans",
+                ["inspect_str"] = "Coffee Beans",
+            },
+            ["acute_sia_food_coffeebeans_cooked"] = {
+                ["name"] = "Cooked Coffee Beans",
+                ["inspect_str"] = "Cooked Coffee Beans",
+            },
+            ["acute_sia_food_coffee_powder"] = {
+                ["name"] = "Coffee Powder",
+                ["inspect_str"] = "Coffee Powder",
             },
         --------------------------------------------------------------------
 
