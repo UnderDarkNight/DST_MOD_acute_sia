@@ -37,14 +37,14 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["recipe_desc"] = "A duster that belongs to Sia",
             },
             ["acute_sia_item_portable_blender"] = {
-                ["name"] = "Portable Blender",
-                ["inspect_str"] = "A Portable Blender that belongs to Sia",
-                ["recipe_desc"] = "A Portable Blender that belongs to Sia",
+                ["name"] = "Coffee Bean Grinder",
+                ["inspect_str"] = "A Coffee Bean Grinder that belongs to Sia",
+                ["recipe_desc"] = "A Coffee Bean Grinder that belongs to Sia",
             },
             ["acute_sia_building_portable_blender"] = {
-                ["name"] = "Portable Blender",
-                ["inspect_str"] = "A Portable Blender that belongs to Sia",
-                ["recipe_desc"] = "A Portable Blender that belongs to Sia",
+                ["name"] = "Coffee Bean Grinder",
+                ["inspect_str"] = "A Coffee Bean Grinder that belongs to Sia",
+                ["recipe_desc"] = "A Coffee Bean Grinder that belongs to Sia",
             },
         --------------------------------------------------------------------
         --- 03_plants

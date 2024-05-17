@@ -44,13 +44,13 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
             },
             ["acute_sia_item_portable_blender"] = {
                 ["name"] = "咖啡研磨器",
-                ["inspect_str"] = "属于Sia的咖啡研磨器",
-                ["recipe_desc"] = "属于Sia的咖啡研磨器",
+                ["inspect_str"] = "属于Sia的咖啡豆研磨器",
+                ["recipe_desc"] = "属于Sia的咖啡豆研磨器",
             },
             ["acute_sia_building_portable_blender"] = {
                 ["name"] = "咖啡研磨器",
-                ["inspect_str"] = "属于Sia的咖啡研磨器",
-                ["recipe_desc"] = "属于Sia的咖啡研磨器",
+                ["inspect_str"] = "属于Sia的咖啡豆研磨器",
+                ["recipe_desc"] = "属于Sia的咖啡豆研磨器",
             },
         --------------------------------------------------------------------
         --- 03_plants
