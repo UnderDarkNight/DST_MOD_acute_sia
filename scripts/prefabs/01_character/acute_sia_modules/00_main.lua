@@ -4,7 +4,12 @@
 return function(inst)
 
     if TheWorld.ismastersim then
-        inst:AddComponent("acute_sia_com_rpc_event")
+        if inst.components.acute_sia_com_rpc_event == nil then
+            inst:AddComponent("acute_sia_com_rpc_event")
+        end        
+        if inst.components.acute_sia_com_data == nil then
+            inst:AddComponent("acute_sia_com_data")
+        end
     end
 
 
@@ -20,6 +25,7 @@ return function(inst)
         "prefabs/01_character/acute_sia_modules/10_naughty_event",                           ---- 淘气值系统
         "prefabs/01_character/acute_sia_modules/11_duster_event",                            ---- 羽毛扫 相关event
         "prefabs/01_character/acute_sia_modules/12_eater",                                   ---- 吃东西相关
+        "prefabs/01_character/acute_sia_modules/13_new_spawn",                               ---- 新玩家奖励
 
     }
     

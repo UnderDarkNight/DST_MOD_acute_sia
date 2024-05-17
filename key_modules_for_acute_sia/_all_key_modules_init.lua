@@ -19,3 +19,6 @@ modimport("key_modules_for_acute_sia/03_origin_components_upgrade/__all_origin_c
 modimport("key_modules_for_acute_sia/04_origin_prefab_upgrade/__all_origin_prefabs_init.lua") 
 -- 官方prefab修改
 
+modimport("key_modules_for_acute_sia/05_recipes/__all_recipes_init.lua") 
+-- 所有配方加载
+

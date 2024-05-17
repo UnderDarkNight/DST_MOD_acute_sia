@@ -143,7 +143,7 @@ end
 
 
 --- 设置可以放烹饪锅里
-AddIngredientValues({"acute_sia_food_green_raisins"}, { 
+AddIngredientValues({"acute_sia_food_coffeebeans"}, { 
     fruit = 0.5,
 },true)
 

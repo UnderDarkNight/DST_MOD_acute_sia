@@ -86,6 +86,21 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["name"] = "咖啡粉",
                 ["inspect_str"] = "咖啡粉",
             },
+            ["acute_sia_food_crystal_raisins"] = {
+                ["name"] = "水晶葡萄",
+                ["inspect_str"] = "水晶葡萄",
+                ["oneat_desc"] = "很甜",
+            },
+            ["acute_sia_food_black_coffee"] = {
+                ["name"] = "黑咖啡",
+                ["inspect_str"] = "黑咖啡",
+                ["oneat_desc"] = "增加跑路速度",
+            },
+            ["acute_sia_food_sweet_coffee"] = {
+                ["name"] = "甜咖啡",
+                ["inspect_str"] = "甜咖啡",
+                ["oneat_desc"] = "增加跑路速度",
+            },
         --------------------------------------------------------------------
         --------------------------------------------------------------------
 }

@@ -28,13 +28,8 @@ local Prefabs_addr_base = string.sub(temp_addr,1,temp_str_index2) .. "/"    --- 
 local prefabs_name_list = {
 
 
-    "01_green_raisins",                           --- 青色提子
-    "02_coffeebeans",                             --- 咖啡豆
-    "03_coffee_powder",                           --- 咖啡粉
+    "01_coffee_speed_buff",                           --- 咖啡加速BUFF
 
-    "04_crystal_raisins",                           --- 水晶葡萄
-    "05_black_coffee",                              --- 黑咖啡
-    "06_sweet_coffee",                              --- 甜咖啡
 
 }
 

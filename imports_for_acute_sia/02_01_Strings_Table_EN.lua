@@ -80,6 +80,21 @@ TUNING["acute_sia.Strings"][this_language] = TUNING["acute_sia.Strings"][this_la
                 ["name"] = "Coffee Powder",
                 ["inspect_str"] = "Coffee Powder",
             },
+            ["acute_sia_food_crystal_raisins"] = {
+                ["name"] = "Crystal Raisins",
+                ["inspect_str"] = "Crystal Raisins",
+                ["oneat_desc"] = "None",
+            },
+            ["acute_sia_food_black_coffee"] = {
+                ["name"] = "Black Coffee",
+                ["inspect_str"] = "Black Coffee",
+                ["oneat_desc"] = "Run Speed Up",
+            },
+            ["acute_sia_food_sweet_coffee"] = {
+                ["name"] = "Sweet Coffee",
+                ["inspect_str"] = "Sweet Coffee",
+                ["oneat_desc"] = "Run Speed Up",
+            },
         --------------------------------------------------------------------
 
 }

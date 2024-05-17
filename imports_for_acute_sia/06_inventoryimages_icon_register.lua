@@ -24,8 +24,11 @@ local files_name = {
 		"acute_sia_food_green_raisins_cooked",			---- 烤青提
 		"acute_sia_food_coffeebeans",					---- 咖啡豆
 		"acute_sia_food_coffeebeans_cooked",			---- 烤咖啡豆
+		"acute_sia_food_coffee_powder",					---- 咖啡粉
 
-		"acute_sia_food_coffee_powder",			---- 咖啡粉
+		"acute_sia_food_crystal_raisins",				---- 水晶葡萄
+		"acute_sia_food_black_coffee",					---- 黑咖啡
+		"acute_sia_food_sweet_coffee",					---- 甜咖啡
 	---------------------------------------------------------------------------------------
 
 }

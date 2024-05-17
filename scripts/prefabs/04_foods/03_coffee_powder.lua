@@ -39,4 +39,9 @@ local function fn()
     return inst
 end
 
+--- 设置可以放烹饪锅里
+AddIngredientValues({"acute_sia_food_coffee_powder"}, { 
+    inedible = 1,
+})
+
 return Prefab("acute_sia_food_coffee_powder", fn, assets)
